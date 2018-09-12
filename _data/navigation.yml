@@ -1,6 +1,32 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: About
+  url: /about/
+  excerpt: "ISL"
+  image: ISL_Logo.tif
+
+  #Professor, Ph.D Candidates, M.S Candidates, Undergraduate, Alumni
+- title: People
+  url: /people/
+  excerpt: "people"
+  image: 
+
+- title: Publication
+  url: /publication/
+  excerpt: "publication"
+  image: 
+
+- title: Research
+  url: /research/
+  excerpt: "research"
+  image: 
+
+- title: Lecture
+  url: /lecture/
+  excerpt: "lecture"
+  image: 
+
+- title: Board
+  url: /board/
+  excerpt: "board"
+  image: 

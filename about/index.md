@@ -17,7 +17,7 @@ ads: false
 
 ## Introduction
 
-![ISL_Intro](./images/intro_text.jpg)
+![ISL_Intro](../images/intro_text.jpg)
 
 영상 처리 및 인식에 필요한 요소 알고리즘들을 개발, 검증하고 이를 시스템화 하는 것을 목표로 한다.  
 주요 관심 응용 대상은 산업/국방용 영상 감시 시스템, 공장 자동화를 위한 비전 시스템, 다차원 영상을 이용한 검사 장비, 의료 영상 분석 시스템, 인간형 로봇을 위한 비전 시스템, 증강 현실 시스템 등이다.  
@@ -29,7 +29,7 @@ ads: false
 <table class="tbTy11" border="1" cellspacing="0" bordercolor="#e8e8e8" cellpadding="0" width="606">
     <tbody>
         <tr>
-            <td height="144" rowspan="4" width="182"><img alt="Lab Resource 첨부사진입니다." src="./images/int_lab.jpg" /></td>
+            <td height="144" rowspan="4" width="182"><img alt="Lab Resource 첨부사진입니다." src="../images/int_lab.jpg" /></td>
             <td bgcolor="#ecefd6">
             <div align="left">ㆍ주소</div>
             </td>
@@ -79,7 +79,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-width: 0.28pt; border-style: solid; border-color: rgb(236, 239, 214); width: 172.98pt; height: 2.82pt;">
-            <p class="바탕글">&nbsp;<img src="./images/zed2.PNG" width="267" height="64" alt="" /></p>
+            <p class="바탕글">&nbsp;<img src="../images/zed2.PNG" width="267" height="64" alt="" /></p>
             </td>
             <td valign="middle" style="border-width: 0.28pt; border-style: solid; border-color: rgb(236, 239, 214); width: 246.56pt; height: 2.82pt;">
             <p class="a" style="margin: 1.5pt 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span lang="EN-US" style="font-size: 9pt;">&middot; High-Resolution and High Frame-rate 3D Video Capture</span></p>
@@ -109,7 +109,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="font-family: Arial, Verdana, sans-serif; font-size: 12px; border: 0.28pt solid rgb(236, 239, 214); width: 172.98pt; height: 2.82pt;">
-            <p class="바탕글" style="margin-top: 2px; margin-bottom: 2px;">&nbsp;<img src="./images/크기변환_JTX1_devkit.png" width="267" height="183" alt="" /></p>
+            <p class="바탕글" style="margin-top: 2px; margin-bottom: 2px;">&nbsp;<img src="../images/크기변환_JTX1_devkit.png" width="267" height="183" alt="" /></p>
             </td>
             <td valign="middle" style="font-family: Arial, Verdana, sans-serif; font-size: 12px; border: 0.28pt solid rgb(236, 239, 214); width: 246.56pt; height: 2.82pt;">
             <p class="a" style="margin: 1.5pt 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span lang="EN-US" style="font-size: 9pt;">&middot; NVIDIA</span><span style="font-size: 9pt;">의<span lang="EN-US"> HPC</span></span></p>
@@ -139,7 +139,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-width: 0.28pt; border-style: solid; border-color: rgb(236, 239, 214); width: 172.98pt; height: 2.82pt;">
-            <p class="바탕글">&nbsp;<img src="./images/tk1.png" width="267" height="183" alt="" /></p>
+            <p class="바탕글">&nbsp;<img src="../images/tk1.png" width="267" height="183" alt="" /></p>
             </td>
             <td valign="middle" style="border-width: 0.28pt; border-style: solid; border-color: rgb(236, 239, 214); width: 246.56pt; height: 2.82pt;">
             <p class="a" style="margin: 1.5pt 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span lang="EN-US" style="font-size: 9pt;">&middot; NVIDIA</span><span style="font-size: 9pt;">의<span lang="EN-US">&nbsp;HPC</span></span></p>
@@ -168,7 +168,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글">&nbsp;<img alt="" width="267" height="209" src="./images/FLIR_P620.jpg" /></p>
+            <p class="바탕글">&nbsp;<img alt="" width="267" height="209" src="../images/FLIR_P620.jpg" /></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; 열화상 카메라</p>
@@ -190,7 +190,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글">&nbsp;<img alt="" width="267" height="269" src="./images/frame grabber.bmp" /></p>
+            <p class="바탕글">&nbsp;<img alt="" width="267" height="269" src="../images/frame grabber.bmp" /></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; 아날로그 형태의 영상 신호를 컴퓨터에서 처리 가능한 디지털 신호로 변환해서 다른 장치로 출력하는 장치</p>
@@ -212,7 +212,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="156" src="/icons/app/cms/file_push.php?mode=contents&amp;fname=Dragonfly 2.bmp" /></o:lock></v:shapetype></p>
+            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="156" src="../images/Dragonfly 2.bmp" /></o:lock></v:shapetype></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; ITS(차량 번호 인식)</p>
@@ -235,7 +235,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="299" src="/icons/app/cms/file_push.php?mode=contents&amp;fname=Flea 2.bmp" /></o:lock></v:shapetype></p>
+            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="299" src="../images/Flea 2.bmp" /></o:lock></v:shapetype></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; 반도체, 디스플레이 관련 검사</p>
@@ -258,7 +258,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="151" src="/icons/app/cms/file_push.php?mode=contents&amp;fname=Bumblebee2.jpg" /></o:lock></v:shapetype></p>
+            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="267" height="151" src="../images/Bumblebee2.jpg" /></o:lock></v:shapetype></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; 스테레어 비젼 카메라</p>
@@ -282,7 +282,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 172.98pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
-            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="0" height="0" src="/icons/app/cms/file_push.php?mode=contents&amp;fname=AanLens.JPG" /><img alt="" width="267" height="229" src="/icons/app/cms/file_push.php?mode=contents&amp;fname=AanLens.JPG" /></o:lock></v:shapetype></p>
+            <p class="바탕글"><v:shapetype id="_x0000_t75" stroked="f" filled="f" path="m@4@5l@4@11@9@11@9@5xe" o:preferrelative="t" o:spt="75" coordsize="21600,21600"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0"></v:f><v:f eqn="sum @0 1 0"></v:f><v:f eqn="sum 0 0 @1"></v:f><v:f eqn="prod @2 1 2"></v:f><v:f eqn="prod @3 21600 pixelWidth"></v:f><v:f eqn="prod @3 21600 pixelHeight"></v:f><v:f eqn="sum @0 0 1"></v:f><v:f eqn="prod @6 1 2"></v:f><v:f eqn="prod @7 21600 pixelWidth"></v:f><v:f eqn="sum @8 21600 0"></v:f><v:f eqn="prod @7 21600 pixelHeight"></v:f><v:f eqn="sum @10 21600 0"></v:f></v:formulas><v:path o:connecttype="rect" gradientshapeok="t" o:extrusionok="f"></v:path><o:lock aspectratio="t" v:ext="edit"><img alt="" width="0" height="0" src="../images/AanLens.JPG" /><img alt="" width="267" height="229" src="../images/AanLens.JPG" /></o:lock></v:shapetype></p>
             </td>
             <td valign="middle" style="border-bottom: #ecefd6 0.28pt solid; border-left: #ecefd6 0.28pt solid; width: 246.56pt; height: 2.82pt; border-top: #ecefd6 0.28pt solid; border-right: #ecefd6 0.28pt solid">
             <p class="바탕글">&middot; 어안렌즈</p>

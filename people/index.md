@@ -25,7 +25,7 @@ ads: false
 </table> -->
 <img alt="고윤호 교수님 사진입니다." src="../images/professor.png"/>
 <br>
-<font size="4em">
+<font size="5px">
 <strong>Prof. Yun-Ho Ko</strong>
 </font><br>
 Office: 충남대학교 공대 4호관 527호<br>

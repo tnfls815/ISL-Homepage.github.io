@@ -1,5 +1,5 @@
 ---
-layout: media
+layout: archive
 permalink: /
 title: "Welcome to ISL"
 #title: "Latest Posts"
@@ -8,8 +8,8 @@ image:
 
 ---
 
-<!-- <div class="tiles">
+<div class="tiles">
 {% for post in site.posts %}
-	{% include post-grid.html %}
+	{% include post-list.html %}
 {% endfor %}
-</div> -->
+</div>

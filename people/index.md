@@ -11,3 +11,9 @@ image:
 share: false
 ads: false
 ---
+
+<div class="tiles">
+{% for post in site.categories.people %}
+  {% include scroll-cue.html %}
+{% endfor %}
+</div><!-- /.tiles -->

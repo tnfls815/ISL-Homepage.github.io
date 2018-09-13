@@ -97,7 +97,7 @@ ads: false
 </table>
 </h3>
 <h3><!--StartFragment-->
-<p class="바탕글" style="text-align: center;"><span style="font-size: 12px; font-weight: normal;">&nbsp;</span><span style="font-size: 12px; font-weight: normal;">&nbsp;</span>&nbsp;</p>
+<p style="text-align: center;"><span style="font-size: 12px; font-weight: normal;">&nbsp;</span><span style="font-size: 12px; font-weight: normal;">&nbsp;</span>&nbsp;</p>
 <table style="border: 0.28pt solid rgb(0, 0, 0); border-collapse: collapse;">
     <tbody>
         <tr>
@@ -107,7 +107,7 @@ ads: false
         </tr>
         <tr>
             <td valign="middle" style="font-family: Arial, Verdana, sans-serif; font-size: 12px; border: 0.28pt solid rgb(236, 239, 214); width: 172.98pt; height: 2.82pt;">
-            <p class="바탕글" style="margin-top: 2px; margin-bottom: 2px;">&nbsp;<img src="../images/크기변환_JTX1_devkit.png" width="267" height="183" alt="" /></p>
+            <p style="margin-top: 2px; margin-bottom: 2px;">&nbsp;<img src="../images/크기변환_JTX1_devkit.png" width="267" height="183" alt="" /></p>
             </td>
             <td valign="middle" style="font-family: Arial, Verdana, sans-serif; font-size: 12px; border: 0.28pt solid rgb(236, 239, 214); width: 246.56pt; height: 2.82pt;">
             <p class="a" style="margin: 1.5pt 0cm; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial;"><span lang="EN-US" style="font-size: 9pt;">&middot; NVIDIA</span><span style="font-size: 9pt;">의<span lang="EN-US"> HPC</span></span></p>
@@ -290,5 +290,5 @@ ads: false
         </tr>
     </tbody>
 </table>
-<!--StartFragment-->
+
 

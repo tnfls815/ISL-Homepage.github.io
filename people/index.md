@@ -3,7 +3,7 @@ title: People
 date: 2018-09-12 11:14:20 Z
 layout: archive
 modified: 2018-09-12 11:14:20 Z
-excerpt: Member of the ISL
+excerpt: 
 image:
   feature: 
   teaser:
@@ -13,8 +13,19 @@ ads: false
 ---
 
 ## Professor
+<!-- <table class="tbTy11" bordercolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0">
+    <tbody>
+        <tr>
+            <td height="150" rowspan="4" width="100"><img alt="고윤호 교수님 사진입니다." src="../images/professor.png" /></td>
+            <td rowspan="4">
+            <div align="center"><strong>Prof. Yun-Ho Ko</strong> </div>
+            </td>
+        </tr>
+    </tbody>
+</table> -->
+<img alt="고윤호 교수님 사진입니다." src="../images/professor.png" /></td>
 
-<table class="tbTy11" bordercolor="#e8e8e8" cellspacing="0" cellpadding="0" border="1">
+<!-- <table class="tbTy11" bordercolor="#e8e8e8" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
             <td height="150" rowspan="4" width="100"><img alt="고윤호 교수님 사진입니다." src="../images/professor.png" /></td>
@@ -50,7 +61,7 @@ ads: false
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 * **EDUCATION**  
   Ph.D. Department of Electrical Engineering & Computer Science, KAIST, Daejeon, 2002.  
@@ -79,9 +90,9 @@ ads: false
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/김진형.jpg" width="100" height="100"></center> | <center><img src="../images/김태원.jpg" width="100" height="100"></center> | <center><img src="../images/유용길.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|
-|<center>**김진형**</center> | <center>**김태원**</center> | <center>**유용길**</center> | <center>**강재웅**</center>|
-|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**안재원**</center> | <center>**강한솔**</center> | <center>**김미정**</center> |     |
+|<center><strong>김진형</strong></center> | <center><strong>김태원</strong></center> | <center><strong>유용길</strong></center> | <center><strong>강재웅</strong></center>|
+|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
+|<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> | <center><strong>김미정</strong></center> |     |
 
 
 ## M.S Candidates
@@ -89,24 +100,24 @@ ads: false
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**현재복**</center> | <center>**정구표**</center> | <center>**김근태**</center> |<center>       </center> |
+|<center><strong>현재복</strong></center> | <center><strong>정구표</strong></center> | <center><strong>김근태</strong></center> |<center>       </center> |
 
 ## Undergraduates
 
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**김현종**</center> | <center>**박규하**</center> | <center>**송재열**</center> |     |
+|<center><strong>김현종</strong></center> | <center><strong>박규하</strong></center> | <center><strong>송재열</strong></center> |     |
 
 ## Alumni
 
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/맹형열.jpg" width="100" height="100"></center> | <center><img src="../images/정윤호.jpg" width="100" height="100"></center> | <center><img src="../images/이태영.jpg" width="100" height="100"></center>|
-|<center>**성종모(ETRI)**</center> | <center>**맹형열(LG전자)**</center> | <center>**정윤호(Silicon Works)**</center> | <center>**이태영(Coxem)**</center>|
+|<center><strong>성종모(ETRI)</strong></center> | <center><strong>맹형열(LG전자)</strong></center> | <center><strong>정윤호(Silicon Works)</strong></center> | <center><strong>이태영(Coxem)</strong></center>|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/김진욱.jpg" width="100" height="100"></center> | <center><img src="../images/정유철.jpg" width="100" height="100"></center> | <center><img src="../images/안병민.jpg" width="100" height="100"></center>|
-|<center>**김동진(롯데정보통신)**</center> | <center>**김진욱(한화시스템즈)**</center> | <center>**정유철(쎄트렉아이)**</center> | <center>**안병민(Coxem)**</center>|
+|<center><strong>김동진(롯데정보통신)</strong></center> | <center><strong>김진욱(한화시스템즈)</strong></center> | <center><strong>정유철(쎄트렉아이)</strong></center> | <center><strong>안병민(Coxem)</strong></center>|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/박태훈.png" width="100" height="100"></center> | <center><img src="../images/박가용.png" width="100" height="100"></center>|
-|<center>**이정우(두산중공업)**</center> | <center>**최성민(KARI)**</center> | <center>**박태훈(KIST)**</center> | <center>**박가용(BurnYoung)**</center>|
+|<center><strong>이정우(두산중공업)</strong></center> | <center><strong>최성민(KARI)</strong></center> | <center><strong>박태훈(KIST)</strong></center> | <center><strong>박가용(BurnYoung)</strong></center>|
 |<center><img src="../images/한병인.jpg" width="100" height="100"></center> | <center><img src="../images/전현호.jpg" width="100" height="100"></center> |  | |
-<center>**한병인(-)**</center> | <center>**전현호(ADD)**</center> |  | |
+<center><strong>한병인(-)</strong></center> | <center><strong>전현호(ADD)</strong></center> |  | |

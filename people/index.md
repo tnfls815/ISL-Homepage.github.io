@@ -5,7 +5,7 @@ layout: archive
 modified: 2018-09-12 11:14:20 Z
 excerpt: People
 image:
-  feature:
+  feature: People.jpg
   teaser:
   thumb:
 share: false

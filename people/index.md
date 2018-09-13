@@ -25,7 +25,7 @@ ads: false
 </table> -->
 <img alt="고윤호 교수님 사진입니다." src="../images/professor.png"/>
 <br>
-<strong>Prof. Yun-Ho Ko</strong>
+<strong>Prof. Yun-Ho Ko</strong><br>
 Office: 충남대학교 공대 4호관 527호<br>
 Tel: +82-42-821-6860<br>
 E-mail: koy@cnu.ac.kr

@@ -51,8 +51,8 @@ Jin-Hyung Kim, Yun-Ho Ko, Hyun-Soo Kang, Si-Woong Lee, and Jae W. Kwon, “Frame
 * **2005**  
   Si-Woong Lee, Sung-Hoon Hong, Jae Gark Choi, Yun-Ho Ko and Byoung-Ju Yun, "Video rate control using an adaptive quantization based on a combined activity measure", Lecture Notes in Artificial Intelligence, vol.3681, pp1297-1302, Sep. 2005.  
   
-  Jae-Soo Cho , Byoung-Ju Yun and Yun-Ho Ko, "Precision Tracking Based-on Fuzzy Reasoning Segmentation in Cluttered Image Sequences", Lecture Notes in Artificial Intelligence, vol.3682, pp371-377, Sep. 2005.
----------
+  Jae-Soo Cho , Byoung-Ju Yun and Yun-Ho Ko, "Precision Tracking Based-on Fuzzy Reasoning Segmentation in Cluttered Image Sequences", Lecture Notes in Artificial Intelligence, vol.3682, pp371-377, Sep. 2005.  
+
 ### Domestic Journal
 
 * **2015**  
@@ -91,7 +91,7 @@ Jin-Hyung Kim, Yun-Ho Ko, Hyun-Soo Kang, Si-Woong Lee, and Jae W. Kwon, “Frame
   
   고윤호, “영상특징 정렬을 이용한 기하학적 공격에 강인한 워터마킹 기법”, 한국멀티미디어학회 논문지, 제9권 5호, pp.624-634, 2006. 5  
   
-  최재각, 고윤호, 고창림, “결합 공간기울기 및 변화검출을 이용한 비디오 객체 분할 방법”, 한국화상학회지, Vol. 12, No. 1, pp. 27-36, 2006. 3
+  최재각, 고윤호, 고창림, “결합 공간기울기 및 변화검출을 이용한 비디오 객체 분할 방법”, 한국화상학회지, Vol. 12, No. 1, pp. 27-36, 2006. 3  
 
 ## Conference  
 ### International Conference
@@ -234,4 +234,4 @@ Jin-Hyung Kim, Yun-Ho Ko, Hyun-Soo Kang, Si-Woong Lee, and Jae W. Kwon, “Frame
 * **2006**  
   박정홍, 박동인, 조승기, 고윤호, 이지홍, 박영우, "레이져 스캐닝 시스템을 이용한 가공물의 높이 측정 및 3차원 형상 복원", 제어자동화시스템심포지엄(CASS 2006), pp. 430-435, 학군국제전시장(KINTEX) 경기도, 2006. 6. 1 ~ 3  
   
-  오상진, 이지홍, 고윤호, " 맵핑 테이블을 이용한 전역 밝기 보상", 정보 및 제어 심포지움(ISC 2006), pp. 15-17, 서울시립대학교 자연과학관,  2006.  4. 29
+  오상진, 이지홍, 고윤호, " 맵핑 테이블을 이용한 전역 밝기 보상", 정보 및 제어 심포지움(ISC 2006), pp. 15-17, 서울시립대학교 자연과학관,  2006.  4. 29  

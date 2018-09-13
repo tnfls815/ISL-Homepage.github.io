@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Interests"
-date: 2018-09-13 05:03:20 Z
+date: 2018-09-13 16:02:30 Z
 author: ISL
 categories: research
 excerpt: 
@@ -77,12 +77,51 @@ ads: true
 </p>
 
 ## Frame Rate Up Conversion (FRUC)
-TBD
+**FRUC(Frame Rate Up Conversion)** : 영상열에 일정한 주기로 **추가적인 프레임을 삽입** 하여 단위 시간당 **출력되는 프레임의 수를 증가** 시키는 기법이다. 기존의 방법은 움직임 추정 기법에 따라 단방향 움직임 추정(Unilateral Motion Estimation, UME)과 양방향 움직임 추정(Bilateral Motion Estimation, BME)으로 나뉜다. **UME**에서는 정확한 움직임 추정이 가능하나 **overlap과 hole**과 같은 문제점이 존재하고, **BME**에서는 overlap과 hole과 같은 문제는 없지만 **부정확한 움직임 추정으로 인한 화질 저하**가 발생한다. 이러한 문제를 해결하기 위해 **UME와 BME 기법을 동시에 사용하는 Hybrid Bilateral Motion Estimation** 방법을 제안하였다.
+
+<p style="text-align: center;">
+	<img src="../../images/FRUC01.png" alt="Drawing" style="width: 800px"/><br>
+    Fig5-1. Concept of FRUC</br>
+</p>
+<p style="text-align: center;">
+	<img src="../../images/FRUC02.png" alt="Drawing" style="width: 800px"/><br>
+    Fig5-2. 기존 방법과 제안한 방법 성능 비교(주관적 평가)
+</br>
+</p>
+<p style="text-align: center;">
+	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 800px"/><br>
+    Fig5-3. 기존 방법과 제안한 방법 성능 비교(PSNR)
+</br>
+</p>
 
 ## 3D Reconstruction (Active Stereo Vision)
-TBD
+**Active Stereo Vision** : **두 대의 카메라**를 이용하여 깊이 정보를 획득하는 스테레오 비전 기법에 **추가적인 광원을 배치**하여 성능을 향상 시키는 방법이다.
 
-## 천장 지향
-TBD
-## 특징 검출
-TBD
+<p style="text-align: center;">
+	<img src="../../images/3D01.png" alt="Drawing" style="width: 800px"/><br>
+    Fig6-1. Concept of Active Stereo Vision</br>
+</p>
+<p style="text-align: center;">
+	<img src="../../images/3D02.png" alt="Drawing" style="width: 800px"/><br>
+    Fig6-2. Depth Map 예시 (입력, 깊이 맵)
+</br>
+</p>
+<p style="text-align: center;">
+	<img src="../../images/3D03.png" alt="Drawing" style="width: 800px"/><br>
+    Fig6-3. 3D reconstruction results of mask (입력, 3차원 복원)
+</br>
+</p>
+
+## 천장 지향 2D-LiDAR를 이용한 공간 정보 획득 및 위치 추정
+**LiDAR(Light Detection and Ranging)** : **빛이 물체에 반사되어 돌아오는 시간**을 이용해 **거리를 측정**하는 센서이다. 2D-LiDAR를 회전하여 3차원 정보를 획득하고, **기존의 3D-LiDAR에 비해 높은 공간해상력을 획득하는 방법**을 제안한다. 
+
+<p style="text-align: center;">
+	<img src="../../images/CEILING01.png" alt="Drawing" style="width: 800px"/><br>
+    Fig7-1. 천장 지향 LiDAR 위치 추정 개념
+</br>
+</p>
+<p style="text-align: center;">
+	<img src="../../images/CEILING02.png" alt="Drawing" style="width: 800px"/><br>
+    Fig7-2. 벽 추정 결과 및 위치 추정 에러
+</br>
+</p>

@@ -13,7 +13,7 @@ ads: false
 ---
 
 <div class="tiles">
-{% for post in site.categories.publication %}
+{% for post in site.categories.lecture %}
   {% include post-list.html %}
 {% endfor %}
-</div>/.tiles
+</div>

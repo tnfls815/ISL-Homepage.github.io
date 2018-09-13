@@ -24,4 +24,4 @@ ads: false
 {% for post in site.categories.research %}
   {% include post-grid.html %}
 {% endfor %}
-</div>/.tiles
+</div>

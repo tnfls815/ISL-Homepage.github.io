@@ -14,6 +14,6 @@ ads: false
 
 <div class="tiles">
 {% for post in site.categories.publication %}
-  {% include scroll-cue.html %}
+  {% include post-list.html %}
 {% endfor %}
 </div><!-- /.tiles -->

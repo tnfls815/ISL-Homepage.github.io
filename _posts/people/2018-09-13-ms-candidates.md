@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: article
 title: "M.S Candidates"
 date: 2018-09-13 05:00:20 Z
@@ -19,4 +19,4 @@ ads: true
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**현재복**</center> | <center>**정구표**</center> | <center>**김근태**</center> | |
+|<center>**현재복**</center> | <center>**정구표**</center> | <center>**김근태**</center> | | -->

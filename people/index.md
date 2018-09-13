@@ -3,7 +3,7 @@ title: People
 date: 2018-09-12 11:14:20 Z
 layout: archive
 modified: 2018-09-12 11:14:20 Z
-excerpt: People
+excerpt: Member of the ISL
 image:
   feature: 
   teaser:
@@ -12,13 +12,12 @@ share: false
 ads: false
 ---
 
-
 ## Professor
 
 <table class="tbTy11" bordercolor="#e8e8e8" cellspacing="0" cellpadding="0" border="1">
     <tbody>
         <tr>
-            <td rowspan="4"><img alt="고윤호 교수님 사진입니다." src="../images/professor.png" /></td>
+            <td height="150" rowspan="4" width="100"><img alt="고윤호 교수님 사진입니다." src="../images/professor.png" /></td>
             <td bgcolor="#92E7E8">
             <div align="center">Name</div>
             </td>
@@ -82,7 +81,7 @@ ads: false
 |<center><img src="../images/김진형.jpg" width="100" height="100"></center> | <center><img src="../images/김태원.jpg" width="100" height="100"></center> | <center><img src="../images/유용길.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|
 |<center>**김진형**</center> | <center>**김태원**</center> | <center>**유용길**</center> | <center>**강재웅**</center>|
 |<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**안재원**</center> | <center>**강한솔**</center> | <center>**김미정**</center> | |
+|<center>**안재원**</center> | <center>**강한솔**</center> | <center>**김미정**</center> |     |
 
 
 ## M.S Candidates
@@ -90,14 +89,14 @@ ads: false
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**현재복**</center> | <center>**정구표**</center> | <center>**김근태**</center> |<center>  </center> |
+|<center>**현재복**</center> | <center>**정구표**</center> | <center>**김근태**</center> |<center>       </center> |
 
 ## Undergraduates
 
 |     |     |     |     |
 |-----|-----|-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center>**김현종**</center> | <center>**박규하**</center> | <center>**송재열**</center> | |
+|<center>**김현종**</center> | <center>**박규하**</center> | <center>**송재열**</center> |     |
 
 ## Alumni
 

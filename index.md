@@ -1,14 +1,15 @@
 ---
-layout: archive
+layout: media
 permalink: /
-title: "Latest Posts"
+title: "Welcome to ISL"
+#title: "Latest Posts"
 image:
-  feature:
+  feature: cnu.jpg
 
 ---
 
-<div class="tiles">
+<!-- <div class="tiles">
 {% for post in site.posts %}
 	{% include post-grid.html %}
 {% endfor %}
-</div><!-- /.tiles -->
+</div> -->

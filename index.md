@@ -4,7 +4,7 @@ permalink: /
 title: "Welcome to ISL"
 #title: "Latest Posts"
 image:
-  feature: main.gif
+  feature: isl_main.gif
 
 ---
 

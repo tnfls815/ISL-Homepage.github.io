@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Interests"
-date: 2018-09-13 16:02:30 Z
+date: 2018-10-08 17:06:30
 author: ISL
 categories: research
 excerpt: 
@@ -21,16 +21,16 @@ ads: true
 
 <p style="text-align: center;">
 	<img src="../../images/SLAM01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig1-1. Concept of RAF(Robust Aged Feature)</br>
+    Fig1-1. Concept of RAF(Robust Aged Feature)
 </p>
 
 <p style="text-align: center;">
 	<img src="../../images/SLAM02.png" alt="Drawing" style="width: 800px"/><br>
-    Fig1-2. RAFSet SLAM Results</br>
+    Fig1-2. RAFSet SLAM Results
 </p>
 <p style="text-align: center;">
-	<img src="../../images/SLAM03.png" alt="Drawing" style="width: 800px"/><br>
-    Fig1-3. KITTI Visual Odometry 부문 31위 (17.07.13)</br>
+	<img src="../../images/SLAM03.png" alt="Drawing" style="width: 600px"/><br>
+    Fig1-3. KITTI Visual Odometry 부문 31위 (17.07.13)
 </p>
 
 ## GAN
@@ -38,11 +38,11 @@ ads: true
 
 <p style="text-align: center;">
 	<img src="../../images/GAN01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig2-1. Concept of GAN</br>
+    Fig2-1. Concept of GAN
 </p>
 <p style="text-align: center;">
 	<img src="../../images/GAN02.png" alt="Drawing" style="width: 800px"/><br>
-    Fig2-2. GAN Results</br>
+    Fig2-2. GAN Results
 </p>
 
 ## De-Hazing  
@@ -50,12 +50,11 @@ ads: true
 
 <p style="text-align: center;">
 	<img src="../../images/DEHAZING01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig3-1. Concept of De-Hazing</br>
+    Fig3-1. Concept of De-Hazing
 </p>
 <p style="text-align: center;">
-	<img src="../../images/DEHAZING02.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/DEHAZING02.png" alt="Drawing" style="width: 600px"/><br>
     Fig3-2. HLS 컬러 기반의 안개 제거 성능 (입력, 출력)
-</br>
 </p>
 
 ## Intensity Enhancement (Retinex)
@@ -63,17 +62,15 @@ ads: true
 
 <p style="text-align: center;">
 	<img src="../../images/MSR01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig4-1. Concept of MSR</br>
+    Fig4-1. Concept of MSR
 </p>
 <p style="text-align: center;">
-	<img src="../../images/MSR02.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/MSR02.png" alt="Drawing" style="width: 600px"/><br>
     Fig4-2. Flow chart of MSRMS
-</br>
 </p>
 <p style="text-align: center;">
-	<img src="../../images/MSR03.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/MSR03.png" alt="Drawing" style="width: 600px"/><br>
     Fig4-2. MSRMS의 성능 (입력, 출력)
-</br>
 </p>
 
 ## Frame Rate Up Conversion (FRUC)
@@ -81,35 +78,33 @@ ads: true
 
 <p style="text-align: center;">
 	<img src="../../images/FRUC01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig5-1. Concept of FRUC</br>
+    Fig5-1. Concept of FRUC
 </p>
 <p style="text-align: center;">
-	<img src="../../images/FRUC02.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/FRUC02.png" alt="Drawing" style="width: 600px"/><br>
     Fig5-2. 기존 방법과 제안한 방법 성능 비교(주관적 평가)
-</br>
+
 </p>
 <p style="text-align: center;">
-	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 500px"/><br>
     Fig5-3. 기존 방법과 제안한 방법 성능 비교(PSNR)
-</br>
+
 </p>
 
 ## 3D Reconstruction (Active Stereo Vision)
 **Active Stereo Vision** : **두 대의 카메라**를 이용하여 깊이 정보를 획득하는 스테레오 비전 기법에 **추가적인 광원을 배치**하여 성능을 향상 시키는 방법이다.
 
 <p style="text-align: center;">
-	<img src="../../images/3D01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig6-1. Concept of Active Stereo Vision</br>
+	<img src="../../images/3D01.png" alt="Drawing" style="width: 600px"/><br>
+    Fig6-1. Concept of Active Stereo Vision
 </p>
 <p style="text-align: center;">
-	<img src="../../images/3D02.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/3D02.png" alt="Drawing" style="width: 600px"/><br>
     Fig6-2. Depth Map 예시 (입력, 깊이 맵)
-</br>
 </p>
 <p style="text-align: center;">
-	<img src="../../images/3D03.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/3D03.png" alt="Drawing" style="width: 600px"/><br>
     Fig6-3. 3D reconstruction results of mask (입력, 3차원 복원)
-</br>
 </p>
 
 ## 천장 지향 2D-LiDAR를 이용한 공간 정보 획득 및 위치 추정
@@ -118,10 +113,10 @@ ads: true
 <p style="text-align: center;">
 	<img src="../../images/CEILING01.png" alt="Drawing" style="width: 800px"/><br>
     Fig7-1. 천장 지향 LiDAR 위치 추정 개념
-</br>
+
 </p>
 <p style="text-align: center;">
-	<img src="../../images/CEILING02.png" alt="Drawing" style="width: 800px"/><br>
+	<img src="../../images/CEILING02.png" alt="Drawing" style="width: 500px"/><br>
     Fig7-2. 벽 추정 결과 및 위치 추정 에러
-</br>
+
 </p>

@@ -56,25 +56,23 @@ E-mail: koy@cnu.ac.kr
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/김진형.jpg" width="100" height="100"></center> | <center><img src="../images/김태원.jpg" width="100" height="100"></center> | <center><img src="../images/유용길.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|
-|<center><strong>김진형</strong></center> | <center><strong>김태원</strong></center> | <center><strong>유용길</strong></center> | <center><strong>강재웅</strong></center>|
-|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> | <center><strong>김미정</strong></center> |     |
+|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> | | |
+|<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> |  |     |
 
 
 ## M.S Candidates
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center><strong>현재복</strong></center> | <center><strong>정구표</strong></center> | <center><strong>김근태</strong></center> |<center>       </center> |
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |  | |
+|<center><strong>김근태</strong></center> |  |  | |
 
 ## Undergraduates
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |
-|<center><strong>김현종</strong></center> | <center><strong>박규하</strong></center> | <center><strong>송재열</strong></center> |     |
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
+|<center><strong>김현종</strong></center> | <center><strong>박규하</strong></center> | <center><strong>송재열</strong></center> |  <center><strong>윤승상</strong></center>  |
 
 ## Alumni
 

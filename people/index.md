@@ -56,23 +56,25 @@ E-mail: koy@cnu.ac.kr
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> | | |
-|<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> |  |     |
+|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|<center><img src="../images/김진형.JPG" width="100" height="100"></center> |
+|<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> | <center><strong>강재웅(ADD)</strong> </center> | <center><strong>김진형(KARI)</strong> </center> |
+|<center><img src="../images/김태원.jpg" width="100" height="100"></center> | <center><img src="../images/유용길.JPG" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>| |
+|<center><strong>김태원(KAERI)</strong></center> | <center><strong>유용길(Burn Young)</strong> </center> | <center><strong>김미정(ADD)</strong> </center> |  |
 
 
 ## M.S Candidates
 
-|     |     |     |     |
-|-----|-----|-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | |  | |
-|<center><strong>김근태</strong></center> |  |  | |
+|     |     |
+|-----|-----|
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
+|<center><strong> 정구표(KARI) </strong></center> |<center><strong> 현재복(쎄트렉아이) </strong></center> | 
 
 ## Undergraduates
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
-|<center><strong>김현종</strong></center> | <center><strong>박규하</strong></center> | <center><strong>송재열</strong></center> |  <center><strong>윤승상</strong></center>  |
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |  |  |
+<center><strong>송재열</strong></center> |  <center><strong>윤승상</strong></center> | | |
 
 ## Alumni
 
@@ -84,5 +86,7 @@ E-mail: koy@cnu.ac.kr
 |<center><strong>김동진(롯데정보통신)</strong></center> | <center><strong>김진욱(한화시스템즈)</strong></center> | <center><strong>정유철(쎄트렉아이)</strong></center> | <center><strong>안병민(Coxem)</strong></center>|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/박태훈.png" width="100" height="100"></center> | <center><img src="../images/박가용.png" width="100" height="100"></center>|
 |<center><strong>이정우(두산중공업)</strong></center> | <center><strong>최성민(KARI)</strong></center> | <center><strong>박태훈(KIST)</strong></center> | <center><strong>박가용(BurnYoung)</strong></center>|
-|<center><img src="../images/한병인.jpg" width="100" height="100"></center> | <center><img src="../images/전현호.jpg" width="100" height="100"></center> |  | |
-<center><strong>한병인(-)</strong></center> | <center><strong>전현호(ADD)</strong></center> |  | |
+|<center><img src="../images/한병인.jpg" width="100" height="100"></center> | <center><img src="../images/전현호.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|
+<center><strong>한병인(-)</strong></center> | <center><strong>전현호(ADD)</strong></center> | <center><strong>김근태(-)</strong></center>|<center><strong>김현종(KAIST)</strong></center> |
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | | ||
+<center><strong>박규하(CNU)</strong></center> |  | | |

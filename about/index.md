@@ -21,50 +21,6 @@ ads: false
 
 영상 처리 및 인식에 필요한 요소 알고리즘들을 개발, 검증하고 이를 시스템화 하는 것을 목표로 한다. 주요 관심 응용 대상은 산업/국방용 영상 감시 시스템, 공장 자동화를 위한 비전 시스템, 다차원 영상을 이용한 검사 장비, 의료 영상 분석 시스템, 인간형 로봇을 위한 비전 시스템, 증강 현실 시스템 등이다. 이를 위해 영상을 분석 해석하기 위한 각종 영상 처리 및 인식 기술에 대한 연구 외에도 임베디드 시스템을 통한 구현 기술, 영상 전송을 위한 압축 기술(H.264, SVC), 영상 감시 시스템의 인증을 위한 워터마킹 기술들을 연구 한다.
 
-## Lab Resource
-<div class="sContents">
-<table class="tbTy11" border="1" cellspacing="0" bordercolor="#e8e8e8" cellpadding="0" width="606">
-    <tbody>
-        <tr>
-            <td height="144" rowspan="4" width="182"><img alt="Lab Resource 첨부사진입니다." src="../images/int_lab.jpg" /></td>
-            <td bgcolor="#ecefd6">
-            <div align="left">ㆍ주소</div>
-            </td>
-            <td>
-            <div align="left">&nbsp;대전광역시 유성구 궁동 충남대학교 공대4호관 514호 <br />
-            &nbsp;영상시스템연구실</div>
-            </td>
-        </tr>
-        <tr>
-            <td bgcolor="#ecefd6">
-            <div align="left">ㆍ전화</div>
-            </td>
-            <td>
-            <div align="left">&nbsp;(042) 821 - 7787, 내선 : 7787</div>
-            </td>
-        </tr>
-        <tr>
-            <td bgcolor="#ecefd6">
-            <div align="left">ㆍ팩스</div>
-            </td>
-            <td>
-            <div align="left">&nbsp;(042) 823-4919</div>
-            </td>
-        </tr>
-        <tr>
-            <td bgcolor="#ecefd6">
-            <div align="left">ㆍHomepage</div>
-            </td>
-            <td>
-            <div align="left">&nbsp;http://isl.cnu.ac.kr</div>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<p>&nbsp;<!--컨텐츠끝//-->&nbsp;</p>
-</div>
-<div class="subtitle">
-
 ## Camera list
 ### ZED Stereo Camera 
 

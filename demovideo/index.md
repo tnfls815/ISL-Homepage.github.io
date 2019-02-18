@@ -1,7 +1,7 @@
 ---
 title: Demo Video
 date: 2019-02-18 18:22:00 Z
-layout: archive
+layout: article
 modified: 2019-02-18 18:22:00 Z
 excerpt: 
 image:
@@ -19,8 +19,8 @@ ads: false
 {% endfor %}
 </div>/.tiles -->
 
-# Research Topic
-## Visual odometry & SLAM
+## Research Topic
+### Visual odometry & SLAM
 * Real-Time Map Generation
 <iframe width="674" height="379" src="https://www.youtube.com/embed/xVG9mF9TlnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -30,7 +30,7 @@ ads: false
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kTcRRaXV-fg?ecver=1"  
  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
- # Undergraduate
- ## Capstone design
+ ## Undergraduate
+ ### Capstone design
  * Wearable Mouse
 <iframe width="674" height="379" src="https://www.youtube.com/embed/jCywcxb0QfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

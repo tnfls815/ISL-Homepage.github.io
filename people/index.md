@@ -56,7 +56,7 @@ E-mail: koy@cnu.ac.kr
 
 |     |     |     |     |
 |-----|-----|-----|-----|
-|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|<center><img src="../images/김진형.JPG" width="100" height="100"></center> |
+|<center><img src="../images/안재원.jpg" width="100" height="100"></center> | <center><img src="../images/강한솔.JPG" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>|<center><img src="../images/김진형.jpg" width="100" height="100"></center> |
 |<center><strong>안재원</strong></center> | <center><strong>강한솔</strong> </center> | <center><strong>강재웅(ADD)</strong> </center> | <center><strong>김진형(KARI)</strong> </center> |
 |<center><img src="../images/김태원.jpg" width="100" height="100"></center> | <center><img src="../images/유용길.jpg" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center>| |
 |<center><strong>김태원(KAERI)</strong></center> | <center><strong>유용길(Burn Young)</strong> </center> | <center><strong>김미정(ADD)</strong> </center> |  |
@@ -74,7 +74,7 @@ E-mail: koy@cnu.ac.kr
 |     |     |
 |-----|-----|
 |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
-<center><strong>송재열</strong></center> |  <center><strong>윤승상</strong></center> |
+<center><strong> 송재열 </strong></center> |  <center><strong> 윤승상 </strong></center> |
 
 ## Alumni
 

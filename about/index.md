@@ -26,7 +26,7 @@ ads: false
 ## Camera list
 ### ZED Stereo Camera 
 
-<img src="../images/zed2.PNG" width="300" > </img> 
+<img src="../images/zed2.PNG" width="300" >
 * High-Resolution and High Frame-rate 3D Video Captur
 * Depth Perception indoors and outdoors at up to 20m
 * 6-DOF Positional Tracking
@@ -34,7 +34,7 @@ ads: false
 
 ### NVIDIA Jetson TX1
 
-<img src="../images/tx1.png" width="300" > </img> 
+<img src="../images/tx1.png" width="300" > 
 * NVIDIA HPC
 * 1 TFLOP/s 256-core with NVIDIA Maxwell™ Architecture
 * 64-bit ARM® A57 CPUs
@@ -42,7 +42,7 @@ ads: false
 
 ### NVIDIA Jetson TK1
 
-<img src="../images/tk1.png" width="300" > </img> 
+<img src="../images/tk1.png" width="300" >
 * NVIDIA HPC
 * NVIDIA Kepler GPU with 192 CUDA Cores
 * NVIDIA 4-Plus-1™ Quad-Core ARM® Cortex™-A15 CPU
@@ -50,7 +50,7 @@ ads: false
 
 ### SICK LMS111
 
-<img src="../images/lms111.jpg" width="300" > </img> 
+<img src="../images/lms111.jpg" width="300" >
 * SICK LiDAR
 * Range (m) : 0.5 – 20 (18 with reflectivity below 10%)
 * Field of View (degrees) : 270
@@ -59,31 +59,31 @@ ads: false
   
 ### FLIR P620
 
-<img src="../images/flir.jpg" width="300" > </img> 
+<img src="../images/flir.jpg" width="300" > 
 * 열화상 카메라
 * 적외선을 이용하여 물체의 온도를 측정하는 장비
 
 ### Frame Grabber
 
-<img src="../images/frame grabber.bmp" width="300" > </img> 
+<img src="../images/frame grabber.bmp" width="300" > 
 * 아날로그 형태의 영상 신호를 컴퓨터에서 처리 가능한 디지털 신호로 변환하는 장치
 
 ### Dragofly 2
 
-<img src="../images/Dragonfly 2.bmp" width="300" > </img> 
+<img src="../images/Dragonfly 2.bmp" width="300" >
 * ITS(차량 번호 인식)
 * Robot Vision
 * 얼굴 인식 등의 보안 및 일반 영상 검사 분야
 
 ### Flea 2
 
-<img src="../images/Flea 2.bmp" width="300" > </img> 
+<img src="../images/Flea 2.bmp" width="300" > 
 * 반도체, 디스플레이 관련 검사
 * ITS(차량 번호 인식)
 * 보안 솔루션 및 일반 영상 분야
 
 ### Bumblebee2
 
-<img src="../images/Bumblebee2.jpg" width="300" > </img> 
+<img src="../images/Bumblebee2.jpg" width="300" >
 * 스테레오 비전 카메라
 * 3차원 데이터 제공

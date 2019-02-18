@@ -38,7 +38,7 @@ ads: false
 * NVIDIA HPC
 * 1 TFLOP/s 256-core with NVIDIA Maxwell™ Architecture
 * 64-bit ARM® A57 CPUs
-* 4 GB LPDDR4 | 25.6 GB/s
+* 4 GB LPDDR4 25.6 GB/s
 
 ### NVIDIA Jetson TK1
 

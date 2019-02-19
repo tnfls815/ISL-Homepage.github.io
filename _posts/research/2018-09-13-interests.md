@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Interests"
-date: 2018-10-08 17:06:30
+date: 2019-02-19 18:26:30
 author: ISL
 categories: research
 excerpt: 
@@ -15,6 +15,30 @@ ads: true
 --- 
 
 {% include toc.html %}
+
+## Frame Rate Up Conversion (FRUC), Frame Interpolation
+**FRUC(Frame Rate Up Conversion)** : 영상열에 일정한 주기로 **추가적인 프레임을 삽입** 하여 단위 시간당 **출력되는 프레임의 수를 증가** 시키는 기법이다. 기존의 방법은 움직임 추정 기법에 따라 단방향 움직임 추정(Unilateral Motion Estimation, UME)과 양방향 움직임 추정(Bilateral Motion Estimation, BME)으로 나뉜다. **UME**에서는 정확한 움직임 추정이 가능하나 **overlap과 hole**과 같은 문제점이 존재하고, **BME**에서는 overlap과 hole과 같은 문제는 없지만 **부정확한 움직임 추정으로 인한 화질 저하**가 발생한다. 이러한 문제를 해결하기 위해 **UME와 BME 기법을 동시에 사용하는 Hybrid Bilateral Motion Estimation** 방법을 제안하였다.
+
+<p style="text-align: center;">
+	<img src="../../images/FRUC01.png" alt="Drawing" style="width: 800px"/><br>
+    Fig5-1. Concept of FRUC
+</p>
+<p style="text-align: center;">
+	<img src="../../images/FRUC02.png" alt="Drawing" style="width: 600px"/><br>
+    Fig5-2. 기존 방법과 제안한 방법 성능 비교(주관적 평가)
+
+</p>
+<p style="text-align: center;">
+	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 500px"/><br>
+    Fig5-3. 기존 방법과 제안한 방법 성능 비교(PSNR)
+</p>
+
+<iframe width="853" height="240" src="https://www.youtube.com/embed/ojwqIOHIK_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align: center;">
+	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 500px"/><br>
+    Video. 기존 방법(좌), 제안 방법(우)
+</p>
 
 ## Visual odometry and SLAM
 **SLAM(Simultaneous Localization and Mapping)** : 로봇이 자신의 **위치와 주변 지도를 동시에 추정**하는 기법으로, GPS를 사용할 수 없는 환경에서도 동작이 가능하다는 장점이 있다. SLAM은 추적 및 매칭에서 발생하는 오차가 성능에 큰 영향을 미친다. 이러한 문제를 해결하기 위해 **RAFSet SLAM**을 제안하였다.
@@ -33,7 +57,7 @@ ads: true
     Fig1-3. KITTI Visual Odometry 부문 31위 (17.07.13)
 </p>
 
-## GAN
+## 딥러닝(적대적 생성 네트워크, GAN)
 **GAN(Generative Adversarial Networks)** : 대표적인 **비지도 학습(Unsupervised Learning)**중 하나로 **생성자(Generator)**와 **구별자(Discriminator)**의 **경쟁(Minimax problem)**을 통해 이미지를 생성한다. 
 
 <p style="text-align: center;">
@@ -73,24 +97,6 @@ ads: true
     Fig4-2. MSRMS의 성능 (입력, 출력)
 </p>
 
-## Frame Rate Up Conversion (FRUC)
-**FRUC(Frame Rate Up Conversion)** : 영상열에 일정한 주기로 **추가적인 프레임을 삽입** 하여 단위 시간당 **출력되는 프레임의 수를 증가** 시키는 기법이다. 기존의 방법은 움직임 추정 기법에 따라 단방향 움직임 추정(Unilateral Motion Estimation, UME)과 양방향 움직임 추정(Bilateral Motion Estimation, BME)으로 나뉜다. **UME**에서는 정확한 움직임 추정이 가능하나 **overlap과 hole**과 같은 문제점이 존재하고, **BME**에서는 overlap과 hole과 같은 문제는 없지만 **부정확한 움직임 추정으로 인한 화질 저하**가 발생한다. 이러한 문제를 해결하기 위해 **UME와 BME 기법을 동시에 사용하는 Hybrid Bilateral Motion Estimation** 방법을 제안하였다.
-
-<p style="text-align: center;">
-	<img src="../../images/FRUC01.png" alt="Drawing" style="width: 800px"/><br>
-    Fig5-1. Concept of FRUC
-</p>
-<p style="text-align: center;">
-	<img src="../../images/FRUC02.png" alt="Drawing" style="width: 600px"/><br>
-    Fig5-2. 기존 방법과 제안한 방법 성능 비교(주관적 평가)
-
-</p>
-<p style="text-align: center;">
-	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 500px"/><br>
-    Fig5-3. 기존 방법과 제안한 방법 성능 비교(PSNR)
-
-</p>
-
 ## 3D Reconstruction (Active Stereo Vision)
 **Active Stereo Vision** : **두 대의 카메라**를 이용하여 깊이 정보를 획득하는 스테레오 비전 기법에 **추가적인 광원을 배치**하여 성능을 향상 시키는 방법이다.
 
@@ -118,5 +124,4 @@ ads: true
 <p style="text-align: center;">
 	<img src="../../images/CEILING02.png" alt="Drawing" style="width: 500px"/><br>
     Fig7-2. 벽 추정 결과 및 위치 추정 에러
-
 </p>

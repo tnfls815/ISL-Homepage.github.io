@@ -36,7 +36,6 @@ ads: true
 <iframe width="853" height="240" src="https://www.youtube.com/embed/ojwqIOHIK_w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p style="text-align: center;">
-	<img src="../../images/FRUC03.png" alt="Drawing" style="width: 500px"/><br>
     Video. 기존 방법(좌), 제안 방법(우)
 </p>
 

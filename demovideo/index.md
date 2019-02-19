@@ -26,6 +26,6 @@ ads: false
 * RAFSet SLAM  
 <iframe width="674" height="379" src="https://www.youtube.com/embed/MzVmTav1WL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
   
- ## Capstone design  
+## Capstone design  
  * Wearable Mouse  
 <iframe width="674" height="379" src="https://www.youtube.com/embed/jCywcxb0QfE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

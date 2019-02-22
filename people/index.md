@@ -73,7 +73,7 @@ E-mail: koy@cnu.ac.kr
 
 |     |     |
 |-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
+|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/윤승상.png" width="100" height="100"></center> |
 <center><strong> 송재열 </strong></center> |  <center><strong> 윤승상 </strong></center> |
 
 ## Alumni

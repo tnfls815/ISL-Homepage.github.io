@@ -2,7 +2,7 @@
 
 title: "Image System Laboratory"
 description: "This is ISL homepage."
-logo: ISL_Logo.png # 120x120 px default image used for Twitter summary card
+logo: Res_ISL_Logo.png # 120x120 px default image used for Twitter summary card
 teaser: ISL_Logo.png # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://ISL-Homepage.github.io

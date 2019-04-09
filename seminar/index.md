@@ -2,7 +2,7 @@
 title: Seminar
 date: 2019-04-09 18:22:00 Z
 layout: article
-modified: 2019-02-18 18:22:00 Z
+modified: 2019-04-09 18:22:00 Z
 excerpt: 
 image:
   feature:

@@ -3,31 +3,31 @@
 - title: About
   url: /about/
   excerpt: "ISL"
-  image: ISL_Logo.png
+  image: Res_ISL_Logo2.png
 
   #Professor, Ph.D Candidates, M.S Candidates, Undergraduate, Alumni
 - title: People
   url: /people/
-  excerpt: "people"
+  excerpt: "Professor, Ph.D Candidates, M.S Candidates, Undergraduates, Alumni"
   image: 
 
 - title: Publication
   url: /publication/
-  excerpt: "publication"
+  excerpt: "Journal, Conference"
   image: 
 
 - title: Research
   url: /research/
-  excerpt: "research"
+  excerpt: "Interests, Project" 
   image: 
 
 - title: Lecture
   url: /lecture/
-  excerpt: "lecture"
+  excerpt: "전자회로실험"
   image: 
 
 - title: Seminar
   url: /seminar/
-  excerpt: "seminar"
+  excerpt: "Seminar, Demo Video"
   image: 
 

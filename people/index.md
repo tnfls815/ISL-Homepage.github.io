@@ -64,17 +64,17 @@ E-mail: koy@cnu.ac.kr
 
 ## M.S Candidates
 
-|     |     |
-|-----|-----|
-|<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
-|<center><strong> 정구표(KARI) </strong></center> |<center><strong> 현재복(쎄트렉아이) </strong></center> | 
+|     |     |     |     |
+|-----|-----|-----|-----|
+|<center><img src="../images/송재열.png" width="100" height="100"></center> | <center><img src="../images/민경철.jpg" width="100" height="100"></center> |<center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
+|<center><strong> 송재열 </strong></center> |<center><strong> 민경철 </strong></center> |<center><strong> 정구표(KARI) </strong></center> |<center><strong> 현재복(쎄트렉아이) </strong></center> | 
 
 ## Undergraduates
 
-|     |     |     |     |
-|-----|-----|-----|-----|
-|<center><img src="../images/송재열.png" width="100" height="100"></center> | <center><img src="../images/윤승상.png" width="100" height="100"></center> | <center><img src="../images/민경철.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
-<center><strong> 송재열 </strong></center> |  <center><strong> 윤승상 </strong></center> | <center><strong> 민경철 </strong></center>| <center><strong> 윤지애 </strong></center>|
+|     |     |
+|-----|-----|
+| <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> | <center><img src="../images/bio-photo.jpg" width="100" height="100"></center> |
+| <center><strong> 윤지애 </strong></center>| <center><strong> 정수빈 </strong></center>|
 
 ## Alumni
 

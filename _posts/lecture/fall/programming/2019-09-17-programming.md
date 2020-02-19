@@ -8,8 +8,9 @@ excerpt:
 image:
    teaser: Res_ISL_Logo2.png
    path: Res_ISL_Logo2.png
-comments: true
+comments: false
 locale: "en"
-share: true
-ads: true
+share: false
+ads: false
 --- 
+

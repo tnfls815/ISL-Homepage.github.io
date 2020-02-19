@@ -8,10 +8,10 @@ excerpt:
 image:
    teaser: interests.jpg
    path: interests.jpg
-comments: true
+comments: false
 locale: "en"
-share: true
-ads: true
+share: false
+ads: false
 --- 
 
 {% include toc.html %}

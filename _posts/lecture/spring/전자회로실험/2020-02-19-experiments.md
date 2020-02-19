@@ -6,8 +6,8 @@ author: ISL
 categories: experiments
 excerpt: 
 image:
-   teaser: Res_ISL_Logo.png
-   path: Res_ISL_Logo.png
+   teaser: Res_ISL_Logo2.png
+   path: Res_ISL_Logo2.png
 comments: true
 locale: "en"
 share: true

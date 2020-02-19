@@ -3,7 +3,7 @@ layout: article
 title: "전자회로실험"
 date: 2020-02-19 14:47:30
 author: ISL
-categories: experiments
+categories: lecture.spring
 excerpt: 
 image:
    teaser: Res_ISL_Logo2.png
@@ -13,3 +13,8 @@ locale: "en"
 share: false
 ads: false
 --- 
+
+% include toc.html %}
+
+## Test2
+* tbd2

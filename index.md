@@ -9,7 +9,17 @@ image:
 ---
 
 <div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
+
+{% for post in site.categories.lecture_spring %}
+  {% include post-grid.html %}
 {% endfor %}
+
+{% for post in site.categories.research %}
+  {% include post-grid.html %}
+{% endfor %}
+
+{% for post in site.categories.seminar %}
+  {% include post-grid.html %}
+{% endfor %}
+
 </div>

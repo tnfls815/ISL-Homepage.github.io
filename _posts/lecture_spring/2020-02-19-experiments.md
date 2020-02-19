@@ -17,8 +17,11 @@ ads: false
 {% include toc.html %}
 
 ## 강의 계획서
-* 강의 계획서 [다운로드](../../attachments/syllabus2019.pdf) 
-* ORCAD 사용법 [다운로드](../../attachments/OrCAD 사용법.pdf) 
+* 강의 계획서
+   : [다운로드](../../attachments/전자회로 실험_2019_syllabus.pdf) 
+* ORCAD 사용법
+   : [다운로드](../../attachments/OrCAD 사용법.pdf) 
 
 ## 2주차 실험 안내
-[다운로드](../../attachments/notice/2주차_실험_공지.pdf) 
+* 실험 1. 전압과 전류의 측정
+   : [다운로드](../../attachments/notice/2주차_실험_공지.pdf) 

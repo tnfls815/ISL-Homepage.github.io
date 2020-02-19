@@ -13,7 +13,7 @@ ads: false
 ---
 
 <div class="tiles">
-{% for post in site.categories.lecture_fall %}
+{% for post in site.categories.lecture %}
   {% include post-grid.html %}
 {% endfor %}
 </div>
